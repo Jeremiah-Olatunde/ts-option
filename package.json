@@ -1,0 +1,25 @@
+{
+  "name": "ts-option",
+  "version": "0.0.0",
+  "description": "typescript implementation of the rust option enum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremiah-Olatunde/ts-option.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "option",
+    "rust"
+  ],
+  "author": "Jesuseun Jeremiah Olatunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeremiah-Olatunde/ts-option/issues"
+  },
+  "homepage": "https://github.com/Jeremiah-Olatunde/ts-option#readme"
+}
